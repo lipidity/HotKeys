@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="hotkeysicon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/ankur/hotkeysicon32.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4612">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4614" />
+      <stop
+         style="stop-color:#b6b6b6;stop-opacity:1;"
+         offset="1"
+         id="stop4616" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4562">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4564" />
+      <stop
+         style="stop-color:#a1a1a1;stop-opacity:1;"
+         offset="1"
+         id="stop4566" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-83.824676 : 402.6854 : 0"
+       inkscape:vp_y="17.452406 : 999.8477 : 0"
+       inkscape:vp_z="411.31751 : -1.0074373e-13 : 0"
+       inkscape:persp3d-origin="378.22005 : 387.5868 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2470"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3678"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4612"
+       id="linearGradient4618"
+       x1="48.432766"
+       y1="109.00676"
+       x2="75.609558"
+       y2="89.089165"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter4920">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22883587"
+         id="feGaussianBlur4922" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5138">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4418809"
+         id="feGaussianBlur5140" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.890625"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1110"
+     inkscape:window-height="701"
+     inkscape:window-x="53"
+     inkscape:window-y="32" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#bc2c03;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5138)"
+       id="path4964"
+       sodipodi:cx="64.514053"
+       sodipodi:cy="62.714859"
+       sodipodi:rx="59.116467"
+       sodipodi:ry="59.116467"
+       d="M 123.63052,62.714859 A 59.116467,59.116467 0 1 1 5.3975868,62.714859 A 59.116467,59.116467 0 1 1 123.63052,62.714859 z"
+       transform="matrix(0.9304347,0,0,0.9217392,3.4598217,3.1089226)" />
+    <image
+       y="3.6212595"
+       x="5.3793077"
+       id="image3680"
+       height="118.23293"
+       width="118.23293"
+       sodipodi:absref="/Users/ankur/Pictures/Icons/Icon Sets/Linspire Clear/128x128/apps/ksame.png"
+       xlink:href="Pictures/Icons/Icon Sets/Linspire Clear/128x128/apps/ksame.png" />
+    <image
+       y="53.498062"
+       x="4.9462729"
+       id="image2472"
+       height="77.108437"
+       width="77.108437"
+       sodipodi:absref="/Users/ankur/Pictures/Icons/Icon Sets/Linspire Clear/128x128/apps/kcharselect.png"
+       xlink:href="Pictures/Icons/Icon Sets/Linspire Clear/128x128/apps/kcharselect.png"
+       style="opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4470"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion4472"><rect
+           id="rect4474"
+           width="55.080402"
+           height="51.044338"
+           x="51.993999"
+           y="35.645359" /></flowRegion><flowPara
+         id="flowPara4476"></flowPara></flowRoot>    <rect
+       style="opacity:1;fill:url(#linearGradient4618);fill-opacity:1;stroke:none;stroke-width:1.30062663999999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4610"
+       width="27.252159"
+       height="20.129692"
+       x="48.357403"
+       y="89.089165" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.97825049999999969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;filter:url(#filter4920)"
+       x="67.23645"
+       y="108.47961"
+       id="text4478"
+       transform="scale(1.0095881,0.990503)"><tspan
+         sodipodi:role="line"
+         id="tspan4480"
+         x="67.23645"
+         y="108.47961">⌘</tspan></text>
+  </g>
+</svg>

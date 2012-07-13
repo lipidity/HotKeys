@@ -1,0 +1,56 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {"" = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                a = id; 
+                c = id; 
+                e = id; 
+                i = id; 
+                p = id; 
+                rv = id; 
+                s = id; 
+                sv = id; 
+                t = id; 
+                x = id; 
+            }; 
+            CLASS = HK; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {ec = NSTextField; tb = tbv; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = hKC; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {
+            ACTIONS = {
+                a = id; 
+                c = id; 
+                e = id; 
+                i = id; 
+                p = id; 
+                performFindPanelAction = id; 
+                rv = id; 
+                sv = id; 
+                t = id; 
+                x = id; 
+            }; 
+            CLASS = tbv; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                eC = NSTextField; 
+                eD = NSTextField; 
+                eH = NSTextField; 
+                eT = NSTextField; 
+                fp = NSPanel; 
+                fst = NSTextField; 
+                ss = NSMenuItem; 
+            }; 
+            SUPERCLASS = NSTableView; 
+        }
+    ); 
+    IBVersion = 1; 
+}
